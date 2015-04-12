@@ -1,2 +1,2 @@
 # VariablesDB-php
-provide a system managing variables with the use of database
+This provides a system managing variables on the database.
