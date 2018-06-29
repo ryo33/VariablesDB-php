@@ -1,2 +1,1 @@
-# VariablesDB-php
-This provides a system managing variables on the database.
+# MOVED TO [GITLAB](https://github.com/ryo33/VariablesDB-php)
